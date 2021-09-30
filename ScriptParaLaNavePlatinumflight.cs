@@ -1,3 +1,10 @@
+		
+//PUTO EL QUE LO LEAAAAAAAAAAAAAAAAA
+//PUTO EL QUE LO LEAAAAAAAAAAAAAAAAA
+//PUTO EL QUE LO LEAAAAAAAAAAAAAAAAA
+//PUTO EL QUE LO LEAAAAAAAAAAAAAAAAA
+
+
 		//Buen día Ingeniero espacial le presento mi modificación de la nave “Platinum flight”
 		//Tienes un centro de mando del DLC “SparksOfTheFuture” los paneles de este centro de mando están totalmente funcionales que trabajan 
 		//junto al bloque programable, que nos dan la perspectiva sobre el motor de salto, la munición de la torreta interior encima de la nave, 
